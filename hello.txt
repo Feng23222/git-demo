@@ -15,4 +15,4 @@ hello Git ! hello feng!
 hello Git ! hello feng!
 hello Git ! hello feng!
 hello Git ! hello feng! master test
-hello Git ! hello feng!
+hello Git ! hello feng! hot-fix test
